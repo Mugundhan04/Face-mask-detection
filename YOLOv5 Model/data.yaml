@@ -1,0 +1,8 @@
+#train and val data
+train: ../dataset7/images/train
+val: ../dataset7/images/val
+
+#number of classes
+nc: 2
+
+names: ['With_mask','Without_mask']
